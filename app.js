@@ -12,13 +12,13 @@ function agregarAmigo () {
     const nombreAmigo = inputAmigo.value.trim(); // Obtener el valor del input
     
 
-//valida que el campo no esté vacío y que no sea un número
+//valida que el nombre no contenga caracteres
     if (nombreAmigo === "" || !/^[a-zA-ZáéíóúÁÉÍÓÚñÑ\s]+$/.test(nombreAmigo)) {
         alert(`El nombre ${nombreAmigo} no es válido`);
         return;
     }
 
-//validar que el nombre no esté duplicado (Case-sensitive)
+    //validar que el nombre no esté duplicado (Case-sensitive)
     if (listaAmigos.some(amigo => amigo.toLowerCase() === nombreAmigo.toLowerCase())) {
         alert(`El nombre ${nombreAmigo} ya está en la lista`);
         return;

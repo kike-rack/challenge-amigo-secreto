@@ -12,7 +12,7 @@
 ---
 
 ## 📖 Descripción del Proyecto
-Este proyecto es una aplicación web sencilla para organizar un **sorteo de amigo secreto**.  
+Este proyecto es una aplicación web sencilla para organizar un **sorteo de amigo secreto**. Se desarrolló para cumplir con el Challenge para Alura Latam, en el contexto de mi formación en el programa Oracle Next Education. La organización diseñó el HTML y CSS y yo programé el funcionamiento. El proyecto tiene las siguientes funcionalidades, respetando las instrucciones originales
 Permite:  
 - Agregar nombres de amigos.  
 - Validar que los nombres no estén vacíos, duplicados o contengan números.  
@@ -24,9 +24,7 @@ Permite:
 ## 🚧 Estado del Proyecto
 ✅ Proyecto funcional y estable.  
 🔮 Posibles mejoras:  
-- Integrar estilos con CSS para mejorar la interfaz.  
-- Agregar opción para reiniciar el sorteo.  
-- Permitir exportar la lista de amigos.  
+- Agregar opción para reiniciar el sorteo.   
 
 ---
 
@@ -45,7 +43,7 @@ Ejemplo de flujo:
 ## 🔑 Acceso al Proyecto
 1. Clonar este repositorio:  
    ```bash
-   git clone https://github.com/usuario/amigo-secreto.git
+   git clone https://github.com/kike-rack/amigo-secreto.git
    ```
 2. Abrir el archivo `index.html` en cualquier navegador.  
 
@@ -59,7 +57,8 @@ Ejemplo de flujo:
 ---
 
 ## 👨‍💻 Persona Desarrolladora del Proyecto
-Desarrollado por **[Tu Nombre Aquí]** ✨  
+Desarrollado por **Enrique Fuenzalida** ✨
+- Enrique es un aprendiz de programación. Actualmente está desarrollando proyectos de HTML5 y CSS. Desde que se sumó al programa ONE, está aprendiendo JavaScript. Tiene estudios universitarios en comunicación social y comunicación pública. Trabaja como analista de prensa y realiza clases particulares de escritura de memoria de tesis y trabajos universitarios. 
 
 ---
 
