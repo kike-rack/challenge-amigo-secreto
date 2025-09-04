@@ -12,10 +12,10 @@
 ---
 
 ## 📖 Descripción del Proyecto
-Este proyecto es una aplicación web sencilla para organizar un **sorteo de amigo secreto**. Se desarrolló para cumplir con el Challenge para Alura Latam, en el contexto de mi formación en el programa Oracle Next Education. La organización diseñó el HTML y CSS y yo programé el funcionamiento. El proyecto tiene las siguientes funcionalidades, respetando las instrucciones originales
+Este proyecto es una aplicación web sencilla para organizar un **sorteo de amigo secreto**. Se desarrolló para cumplir con el Challenge para Alura Latam, en el contexto de mi formación en el programa Oracle Next Education (ONE). La organización diseñó el HTML y CSS y yo programé el funcionamiento. El proyecto tiene las siguientes funcionalidades, respetando las instrucciones originales
 Permite:  
 - Agregar nombres de amigos.  
-- Validar que los nombres no estén vacíos, duplicados o contengan números.  
+- Validar que los nombres no estén vacíos, duplicados o contengan números y caracteres especiales.  
 - Mostrar la lista de participantes en pantalla.  
 - Seleccionar aleatoriamente un amigo secreto entre los participantes.  
 
@@ -43,7 +43,7 @@ Ejemplo de flujo:
 ## 🔑 Acceso al Proyecto
 1. Clonar este repositorio:  
    ```bash
-   git clone https://github.com/kike-rack/amigo-secreto.git
+   git clone https://github.com/kike-rack/challenge-amigo-secreto.git
    ```
 2. Abrir el archivo `index.html` en cualquier navegador.  
 
@@ -58,12 +58,12 @@ Ejemplo de flujo:
 
 ## 👨‍💻 Persona Desarrolladora del Proyecto
 Desarrollado por **Enrique Fuenzalida** ✨
-- Enrique es un aprendiz de programación. Actualmente está desarrollando proyectos de HTML5 y CSS. Desde que se sumó al programa ONE, está aprendiendo JavaScript. Tiene estudios universitarios en comunicación social y comunicación pública. Trabaja como analista de prensa y realiza clases particulares de escritura de memoria de tesis y trabajos universitarios. 
+- Enrique es un aprendiz de programación. Actualmente está desarrollando proyectos de HTML5 y CSS. Desde que se sumó al programa ONE, está aprendiendo JavaScript. Tiene estudios universitarios en comunicación social y comunicación pública. Trabaja como analista de prensa y realiza clases particulares de escritura científica, ensayística y memoria de tesis.
 
 ---
 
 ## 📜 Licencia
 Este proyecto se distribuye bajo la licencia **MIT**.  
-Eres libre de usarlo, modificarlo y compartirlo, siempre citando la autoría original.  
+Eres libre de usarlo, modificarlo y compartirlo.
 
 ---
